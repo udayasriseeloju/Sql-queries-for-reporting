@@ -43,6 +43,7 @@
 4. **Monthly Revenue Trend** – Revenue grouped by month  
 5. **Top Customers** – Customers with highest spending  
 
+<img width="1920" height="1016" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/d9475b5b-3565-487a-9d31-b071eaab86b0" />
 
 
 
