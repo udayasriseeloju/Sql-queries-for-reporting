@@ -1,0 +1,8 @@
+**Summary Report**
+
+This SQL project demonstrates the creation of a complete sales reporting system using MySQL. It includes database design, data insertion, and analytical reporting queries. The database simulates a small retail environment with customers, products, orders, and order items.
+
+The script builds the database structure, inserts sample data, and generates key business insights through SQL queries. Reports include daily sales totals, average transaction values, and top-performing products. Each report helps in understanding revenue trends, customer spending behavior, and product performance.
+
+The project is designed to run seamlessly in both MySQL Workbench and Visual Studio Code with MySQL extensions. It can be used as a practical reference for learning SQL database creation, data aggregation, and analytical query writing.
+
