@@ -1,11 +1,5 @@
 # Sql-queries-for-reporting
 #  Sales Report SQL Project
-
-This project demonstrates how to generate **sales analytics reports** using **MySQL Workbench**.  
-It includes SQL scripts to create a sample sales database and run queries for daily totals, average transactions, and top products.
-
-
-
 ## Project Overview
 **Database:** `SalesDB`  
 **Tool Used:** MySQL Workbench  
@@ -53,9 +47,4 @@ It includes SQL scripts to create a sample sales database and run queries for da
 
 
 **udayasri seeloju**  
-** udayasriudaya613@gmail.com**  
-
-
-
-
-### ⭐ If you find this useful, consider starring the repository!
+udayasriudaya613@gmail.com
